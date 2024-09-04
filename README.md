@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL du site :
+- nom :ghirardelli 
+- prénom :viktor
+- URL du site : https://tp1-2-plot-par-parceljs.netlify.app/ 
 
 # Travail
 

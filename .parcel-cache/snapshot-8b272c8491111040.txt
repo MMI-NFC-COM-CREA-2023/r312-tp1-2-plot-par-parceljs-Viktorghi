@@ -1,17 +1,4 @@
 7148
-111C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\semver\ranges\intersects.js133699287141333329 0
-96C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-zoom\dist133699283200532256 1
-112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\node-addon-api\noexcept.gypi133699287136677704 0
-139C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\css-tree\cjs\syntax\config\walker.cjs133699287169070523 0
-155C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDO.js133699287168303143 0
-112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\msgpackr-extract\binding.gyp133699287135408953 0
-137C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133699287173725804 0
-104C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\LICENSE133699283199592205 0
-95C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-delaunay133699283200985820 1
-111C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-time-format\package.json133699283201455543 0
-104C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-array\src\fsum.js133699283201610499 0
-111C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\src\creator.js133699283200040787 0
-86C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\dist\index.html133699306117636576 0
 93C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@lezer\lr133699287140538477 1
 109C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\svgo\plugins\prefixIds.js133699287137853258 0
 112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\nth-check\lib\compile.js.map133699287135938768 0
@@ -66,7 +53,7 @@
 92C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\boolbase133699287134885011 1
 132C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\electron-to-chromium\full-chromium-versions.json133699287136485199 0
 135C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs133699287143185658 0
-81C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\index.html133699305730105954 0
+81C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\index.html133699310699816188 0
 119C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\svgo\plugins\convertStyleToAttrs.js133699287137623050 0
 94C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\iconv-lite133699283200112418 1
 116C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-shape\src\order\descending.js133699283201283137 0
@@ -152,6 +139,11 @@
 125C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\reporter-dev-server\src\Server.js133699287164043799 0
 102C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\picocolors\LICENSE133699287135134087 0
 97C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@observablehq133699283198412620 1
+139C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker133699287168439140 1
+123C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\htmlnano\lib\modules\removeComments.cjs133699287139198287 0
+115C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\regions\EC.js133699287141094686 0
+102C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-scale-chromatic133699283201759990 1
+143C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\css-tree\cjs\syntax\node\UnicodeRange.cjs133699287168941747 0
 119C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\css-tree\lib\syntax\config\lexer.js133699287139663345 0
 110C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-shape\src\lineRadial.js133699283201576798 0
 96C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\lightningcss133699287140571299 1
@@ -344,6 +336,17 @@
 107C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@lezer\lr\dist\index.js133699287140513180 0
 109C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\tslib\CopyrightNotice.txt133699287136812270 0
 115C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\regions\JP.js133699287143058013 0
+111C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\semver\ranges\intersects.js133699287141333329 0
+96C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-zoom\dist133699283200532256 1
+112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\node-addon-api\noexcept.gypi133699287136677704 0
+139C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\css-tree\cjs\syntax\config\walker.cjs133699287169070523 0
+155C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\CDO.js133699287168303143 0
+112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\msgpackr-extract\binding.gyp133699287135408953 0
+137C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\mdn-data\css\properties.schema.json133699287173725804 0
+104C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\LICENSE133699283199592205 0
+95C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-delaunay133699283200985820 1
+111C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-time-format\package.json133699283201455543 0
+104C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-array\src\fsum.js133699283201610499 0
 159C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133699287157344655 0
 130C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\features\mutationobserver.js133699287144097023 0
 91C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-drag133699283201047019 1
@@ -385,11 +388,6 @@
 104C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@swc\helpers\_\index133699287139608001 1
 130C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\dom-serializer\node_modules\entities\readme.md133699287167666494 0
 103C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\msgpackr\index.d.ts133699287175452487 0
-139C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\walker133699287168439140 1
-123C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\htmlnano\lib\modules\removeComments.cjs133699287139198287 0
-115C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\regions\EC.js133699287141094686 0
-102C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-scale-chromatic133699283201759990 1
-143C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\css-tree\cjs\syntax\node\UnicodeRange.cjs133699287168941747 0
 102C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\posthtml\readme.md133699287140364790 0
 101C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\dotenv-expand\lib133699287141412876 1
 114C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\semver\internal\identifiers.js133699287141271551 0
@@ -3008,8 +3006,8 @@
 112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\electron-to-chromium\LICENSE133699287136017302 0
 107C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-random\src\cauchy.js133699283200578727 0
 117C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\electron-to-chromium\package.json133699287136580023 0
-123C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\features\gyroscope.js133699287142187734 0
 114C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\electron-to-chromium\README.md133699287136664233 0
+123C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\features\gyroscope.js133699287142187734 0
 118C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\electron-to-chromium\versions.json133699287136611301 0
 114C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\cosmiconfig\dist\util.d.ts.map133699287137397687 0
 110C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-shape\src\order\none.js133699283201656275 0
@@ -3063,6 +3061,9 @@
 120C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@swc\helpers\src\_async_iterator.mjs133699287142220155 0
 112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\domutils\lib\manipulation.js133699287135331263 0
 113C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\src\selectAll.js133699283201636219 0
+135C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\transformer-react-refresh-wrap\package.json133699287150168407 0
+131C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@swc\helpers\esm\_class_apply_descriptor_get.js133699287141032015 0
+106C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-geo\src\distance.js133699283201622329 0
 110C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\domutils\lib\querying.d.ts133699287136689363 0
 123C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\features\objectrtc.js133699287144404725 0
 119C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-transition\dist\d3-transition.js133699283199900180 0
@@ -3348,6 +3349,8 @@
 109C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\package.json133699283201780882 0
 100C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\src133699283201759990 1
 110C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\src\create.js133699283200005650 0
+86C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\dist\index.html133699306117636576 0
+111C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\src\creator.js133699283200040787 0
 109C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-color\src\cubehelix.js133699283200696837 0
 115C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\regions\BD.js133699287137757470 0
 112C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-selection\src\identity.js133699283201026938 0
@@ -3601,9 +3604,6 @@
 106C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-geo\src\centroid.js133699283201161359 0
 135C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\csso\node_modules\css-tree\lib\syntax\node\Ratio.js133699287170273887 0
 105C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-geo\src\compose.js133699283201307134 0
-135C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@parcel\transformer-react-refresh-wrap\package.json133699287150168407 0
-131C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\@swc\helpers\esm\_class_apply_descriptor_get.js133699287141032015 0
-106C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-geo\src\distance.js133699283201622329 0
 107C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-geo\src\graticule.js133699283201686886 0
 127C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\caniuse-lite\data\features\css-paint-api.js133699287139843724 0
 106C:\Users\vikgh\Documents\GitHub\r312-tp1-2-plot-par-parceljs-Viktorghi\node_modules\d3-geo\src\identity.js133699283201696934 0

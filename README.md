@@ -1,6 +1,6 @@
 - nom :ghirardelli 
 - prénom :viktor
-- URL du site : https://tp1-2-plot-par-parceljs.netlify.app/ 
+- URL du site : https://tp1-2-plot-par-parceljs.netlify.app/ ne marche pas sur netlify mais marche en local
 
 # Travail
 
